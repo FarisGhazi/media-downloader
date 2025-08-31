@@ -119,7 +119,7 @@ Fedora users can use the following script to build from source:
 
 ```console
 ./build_fedora.sh
-
+```
 # Screenshots
 
 
